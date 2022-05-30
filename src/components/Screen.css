@@ -1,0 +1,20 @@
+.screen {
+	margin-left: 5px;
+	margin-top: 5px;
+	width: 365px;
+	background-color: white;
+	font-size: 25px;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	padding-left: 1%;
+	padding-right: 1%;
+	text-align: right;
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+}
+
+.wrapper {
+	margin: auto;
+	width: 380px;
+}

@@ -1,0 +1,31 @@
+.button {
+	height: 100%;
+	border: 0;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-top: 5px;
+	margin-left: 5px;
+	text-align: center;
+	background-color: lightgrey;
+	font-size: 25px;
+}
+
+.button:active {
+	background-color: rgb(178, 177, 177);
+}
+
+.blue {
+	background-color: rgb(135,206,250);
+}
+
+.blue:active {
+	background-color: rgb(105, 164, 201);
+}
+
+.normal {
+	width: 90px;
+}
+
+.wide {
+	width: 185px;
+}
